@@ -5,8 +5,9 @@ do good deeds so that you get some good deeds fulfilled
 
 
 <P> myClass=Pen
-my attrinbutes are
-Name:(String)
-Manufacturer:(String)
-Cost:(Number)
+<br>
+my attributes are
+<br>Name:(String)
+<br>type:(String)
+<br>Cost:(Number)
 </p>

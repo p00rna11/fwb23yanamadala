@@ -5,8 +5,11 @@ block content
   p Welcome to #{title}
 
   p PoornaChand local server 
+
+
   button(type="button", class="btn btn-success" onclick="update()") Press Me
   br    
+  
   br
   div(id="target") Display 
    script.
@@ -15,6 +18,8 @@ block content
      client_count++;
      document.getElementById("target").innerHTML=`value now ${client_count}`
      }
-   
+    br
+
+  a(href="pens") link to pens
 
   
